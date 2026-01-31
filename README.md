@@ -1,4 +1,4 @@
-## Greetings everyone 👋
+## Greetings Everyone 👋
 
 
 <!--
