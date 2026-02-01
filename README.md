@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 </head>
 <body>
     <h1>Boas-vindas ao meu perfil! 😃</h1>
-
     <p>Olá a todos, meu nome é <strong>Bruno</strong> e meu apelido e b, sou estudante de HTML e CSS, sou brasileiro 🇧🇷 quase fluente einglêses 🇺🇸, estou descobricomo com funcionGit giGitHubthub. Sou aficionado por sistemas operacionais e atualmente sou usuário básico de Linux. 🐧 😎</p>
-
 <p> Estou sempre aprendendo algo novo relacionado à tecnologia em geral. 🖥️</p>
 </body>
 </html>
