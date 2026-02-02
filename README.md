@@ -25,6 +25,7 @@ Here are some ideas to get you started:
     <p>Olá a todos, meu nome é <strong>Bruno</strong> e meu apelido e b, sou estudante de HTML e CSS, brasileiro 🇧🇷 quase fluente em inglês 🇺🇸, estou descobrindo como funciona Git e Github. Sou facinado por sistemas operacionais e atualmente sou usuário básico de Linux. 🐧 😎</p>
 <p> Estou sempre aprendendo algo novo relacionado à tecnologia em geral. 🖥️</p>
     <br>
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/07b5vArZtW08PuEqCw61Ei?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </body>
 </html>
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
