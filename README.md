@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 </body>
 </html>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=brunohpaz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=dbdbdb&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=brunohpaz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=dbdbdb&bar_color_cover=true)](https://open.spotify.com/user/brunohpaz?si=ebc35e42129f48e4)
