@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=brunohpaz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=dbdbdb&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -27,3 +27,4 @@ Here are some ideas to get you started:
     <br>
 </body>
 </html>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=brunohpaz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=dbdbdb&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
