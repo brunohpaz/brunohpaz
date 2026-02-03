@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <!-- <title>Document</title> -->
 </head>
-<body align="center">
+<body text-align="center">
     <h1>Boas-vindas ao meu perfil! 😃</h1>
     <p>Olá a todos, meu nome é <strong>Bruno</strong> e meu apelido e b, sou estudante de HTML e CSS, brasileiro 🇧🇷 quase fluente em inglês 🇺🇸, estou descobrindo como funciona Git e Github. Sou facinado por sistemas operacionais e atualmente sou usuário básico de Linux. 🐧 😎</p>
 <p> Estou sempre aprendendo algo novo relacionado à tecnologia em geral. 🖥️</p>
