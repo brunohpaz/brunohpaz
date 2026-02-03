@@ -26,11 +26,10 @@ Here are some ideas to get you started:
 <p> Estou sempre aprendendo algo novo relacionado à tecnologia em geral. 🖥️</p>
     <br>
     <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
+  <a href="https://open.spotify.com/user/brunohpaz?si=ebc35e42129f48e4">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=brunohpaz&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
 </body>
 </html>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=brunohpaz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=dbdbdb&bar_color_cover=true)](https://open.spotify.com/user/brunohpaz?si=ebc35e42129f48e4)
