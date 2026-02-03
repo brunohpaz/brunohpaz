@@ -21,7 +21,7 @@ Here are some ideas to get you started:
    <!-- <title>Document</title> -->
 </head >
 <body>
-    <h1 text-align="center" >Boas-vindas ao meu perfil! 😃</h1>
+    <h1>Boas-vindas ao meu perfil! 😃</h1>
     <p>Olá a todos, meu nome é <strong>Bruno</strong> e meu apelido e b, sou estudante de HTML e CSS, brasileiro 🇧🇷 quase fluente em inglês 🇺🇸, estou descobrindo como funciona Git e Github. Sou facinado por sistemas operacionais e atualmente sou usuário básico de Linux. 🐧 😎</p>
 <p> Estou sempre aprendendo algo novo relacionado à tecnologia em geral. 🖥️</p>
     <br>
